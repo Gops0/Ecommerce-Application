@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270030401084",
+    "project_id": "aichefmaster-15164",
+    "storage_bucket": "aichefmaster-15164.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270030401084:android:2414da396b5893c9659d39",
+        "android_client_info": {
+          "package_name": "com.example.ai_chef_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM12jL3Xwn1q-vjggUw-75WzPYsCAYBNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
